@@ -2,7 +2,7 @@
 
 The data set contains laboratory values of blood donors and Hepatitis C patients and demographic values like age. I am trying to determine whether instance is Hepatitis C patient or blood donor with machine learning algorithms. First I will do data cleaning and preparation and after that EDA. Finally I will do implementation of machine learning algorithms.
 
-You can find the real code for this work on master branch and exemine more EDA and machine learning algorithms.
+You can find the real code for this work on master branch and exemine more EDA and machine learning algorithms. This is just an overwiev!!
 
 Example from dataset:
 
