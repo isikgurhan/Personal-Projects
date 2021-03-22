@@ -1,5 +1,6 @@
-# Personal Projects
-The data set contains laboratory values of blood donors and Hepatitis C patients and demographic values like age. I am trying to determine whether instance is Hepatitis C patient or blood donor with machine learning algorithms. 
+# Hepatit Patients or Blood Donors Data Set 
+
+The data set contains laboratory values of blood donors and Hepatitis C patients and demographic values like age. I am trying to determine whether instance is Hepatitis C patient or blood donor with machine learning algorithms. First I will do data cleaning and preparation and after that EDA. Finally I will do implementation of machine learning algorithms.
 
 Example from dataset:
 
@@ -27,10 +28,21 @@ Pearson's correlation heat map for all features with their correlation values:
 
 <img width="614" alt="Ekran Resmi 2021-03-22 18 13 16" src="https://user-images.githubusercontent.com/79477750/112012480-495b0d00-8b3a-11eb-8a6b-3fd289a4e26e.png">
 
-Confusion matrix and classification table with random forest:
+Confusion matrix and classification table with random forest before feature selection:
 
 <img width="481" alt="Ekran Resmi 2021-03-22 18 14 28" src="https://user-images.githubusercontent.com/79477750/112012672-73143400-8b3a-11eb-8a44-c3412245474b.png">
 
 Confusion matrix and classification table with random forest after feature selection:
 
 <img width="481" alt="Ekran Resmi 2021-03-22 18 15 36" src="https://user-images.githubusercontent.com/79477750/112012873-9b039780-8b3a-11eb-8ac2-4e60b488898b.png">
+
+Confusion matrix and classification table with SVM before feature selection
+
+<img width="481" alt="Ekran Resmi 2021-03-22 18 20 34" src="https://user-images.githubusercontent.com/79477750/112013704-4d3b5f00-8b3b-11eb-9ea6-3cabf13369e9.png">
+
+
+Confusion matrix and classification table with SVM after feature selection:
+
+<img width="481" alt="Ekran Resmi 2021-03-22 18 19 34" src="https://user-images.githubusercontent.com/79477750/112013546-29781900-8b3b-11eb-95d3-75919e27c4e3.png">
+
+
