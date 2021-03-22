@@ -51,6 +51,6 @@ Confusion matrix and classification table with SVM after feature selection:
 
 <img width="481" alt="Ekran Resmi 2021-03-22 18 19 34" src="https://user-images.githubusercontent.com/79477750/112013546-29781900-8b3b-11eb-95d3-75919e27c4e3.png">
 
-#RESULT
+# RESULT
 
 As we can understand by looking at the confusion matrix and accuracy rate, with 7 features it is quite easy to determine whether blood donor is acceptable or not.
